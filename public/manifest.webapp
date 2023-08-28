@@ -1,0 +1,23 @@
+{
+    "version": "1.1.0",
+    "name": "Vue",
+    "description": "To-do list",
+    "type": "web",
+    "launch_path": "/index.html",
+    "icons": {
+        "56": "/assets/icons/kaios_56.png",
+        "112": "/assets/icons/kaios_112.png"
+    },
+    "developer": {
+        "name": "KaiOS Team",
+        "url": "https://www.kaiostech.com"
+    },
+    "locales": {
+        "en-US": {
+            "name": "Vue",
+            "subtitle": "to-do list",
+            "description": "to-do list"
+        }
+    },
+    "default_locale": "en-US" 
+}
